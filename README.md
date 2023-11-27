@@ -1,4 +1,4 @@
 # JAVA
 This is for college students
 <br>
-Author:- Aryan Gorde
+Author:- Aryan Gorde(student)
